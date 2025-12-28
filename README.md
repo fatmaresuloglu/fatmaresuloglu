@@ -34,8 +34,10 @@ I am a Computer Engineering graduate from Zonguldak Bülent Ecevit University. I
 ---
 
 ### 📊 GitHub Stats
-![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmaresuloglu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaresuloglu&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=fatmaresuloglu&show_icons=true&theme=radical" alt="Fatma's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaresuloglu&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
