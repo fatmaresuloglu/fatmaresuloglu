@@ -1,12 +1,12 @@
 # Hi there, I'm Fatma Resuloğlu! 👋
 ### Computer Engineer | Mobile Developer | AI Enthusiast
 
-[cite_start]I am a Computer Engineering graduate from Zonguldak Bülent Ecevit University[cite: 63, 64]. I specialize in building high-performance mobile applications and integrating them with AI and Cloud ecosystems.
+I am a Computer Engineering graduate from Zonguldak Bülent Ecevit University. I specialize in building high-performance mobile applications and integrating them with AI and Cloud ecosystems.
 
 - 📱 **Current Focus:** Advanced React Native & Flutter Development.
-- [cite_start]🤖 **AI Interest:** Deep Learning, Image Processing, and AI-Powered Mobile Solutions[cite: 87].
-- [cite_start]☁️ **Cloud Experience:** Microsoft Azure IoT integrations[cite: 111].
-- [cite_start]🌍 **Languages:** English (B2)[cite: 80], Turkish (Native).
+- 🤖 **AI Interest:** Deep Learning, Image Processing, and AI-Powered Mobile Solutions.
+- ☁️ **Cloud Experience:** Microsoft Azure IoT integrations.
+- 🌍 **Languages:** English (B2), Turkish (Native).
 
 ---
 
@@ -27,8 +27,8 @@
 ---
 
 ### 🏆 Featured Projects
-- **[Remote Health Monitoring](https://github.com/fatmaresuloglu/tubitak_flutter):** TÜBİTAK 2209-A Supported. [cite_start]LoRa + Azure + Flutter.
-- [cite_start]**[AI Animal Detection]((https://github.com/fatmaresuloglu/ZooZoomm)):** Flutter + Flask + CNN model integration[cite: 115].
+- **[Remote Health Monitoring](https://github.com/fatmaresuloglu/tubitak_flutter):** TÜBİTAK 2209-A Supported. LoRa + Azure + Flutter.
+- **[AI Animal Detection](https://github.com/fatmaresuloglu/ZooZoomm):** Flutter + Flask + CNN model integration.
 - **[Car Manager](https://github.com/fatmaresuloglu/cars):** Advanced State Management with RTK Query and Optimistic Updates.
 
 ---
@@ -40,5 +40,5 @@
 ---
 
 📫 **How to reach me:**
-- [cite_start]LinkedIn: [fatma-resuloglu00](https://www.linkedin.com/in/fatma-resuloglu00/) [cite: 85]
-- [cite_start]Email: [resuloglufatma0@gmail.com](mailto:resuloglufatma0@gmail.com) [cite: 83]
+- LinkedIn: [fatma-resuloglu00](https://www.linkedin.com/in/fatma-resuloglu00/)
+- Email: [resuloglufatma0@gmail.com](mailto:resuloglufatma0@gmail.com)
