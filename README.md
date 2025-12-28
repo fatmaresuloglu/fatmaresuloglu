@@ -31,13 +31,7 @@ I am a Computer Engineering graduate from Zonguldak Bülent Ecevit University. I
 - **[AI Animal Detection](https://github.com/fatmaresuloglu/ZooZoomm):** Flutter + Flask + CNN model integration.
 - **[Car Manager](https://github.com/fatmaresuloglu/cars):** Advanced State Management with RTK Query and Optimistic Updates.
 
----
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=fatmaresuloglu&show_icons=true&theme=radical" alt="Fatma's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaresuloglu&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
 ---
 
