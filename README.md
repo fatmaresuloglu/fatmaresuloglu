@@ -27,8 +27,8 @@
 ---
 
 ### 🏆 Featured Projects
-- **[Remote Health Monitoring](https://github.com/fatmaresuloglu/health-lora):** TÜBİTAK 2209-A Supported. [cite_start]LoRa + Azure + Flutter.
-- [cite_start]**[AI Animal Detection](https://github.com/fatmaresuloglu/animal-detection):** Flutter + Flask + CNN model integration[cite: 115].
+- **[Remote Health Monitoring](https://github.com/fatmaresuloglu/tubitak_flutter):** TÜBİTAK 2209-A Supported. [cite_start]LoRa + Azure + Flutter.
+- [cite_start]**[AI Animal Detection]((https://github.com/fatmaresuloglu/ZooZoomm)):** Flutter + Flask + CNN model integration[cite: 115].
 - **[Car Manager](https://github.com/fatmaresuloglu/cars):** Advanced State Management with RTK Query and Optimistic Updates.
 
 ---
