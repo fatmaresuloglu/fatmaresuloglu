@@ -29,7 +29,7 @@ I am a Computer Engineering graduate from Zonguldak Bülent Ecevit University. I
 ### 🏆 Featured Projects
 - **[Remote Health Monitoring](https://github.com/fatmaresuloglu/tubitak_flutter):** TÜBİTAK 2209-A Supported. LoRa + Azure + Flutter.
 - **[AI Animal Detection](https://github.com/fatmaresuloglu/ZooZoomm):** Flutter + Flask + CNN model integration.
-- **[Car Manager](https://github.com/fatmaresuloglu/cars):** Advanced State Management with RTK Query and Optimistic Updates.
+- **[FuelStation IQ](https://github.com/fatmaresuloglu/cars):** Advanced State Management with RTK Query and Optimistic Updates.
 
 
 
